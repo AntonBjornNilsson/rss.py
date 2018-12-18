@@ -25,6 +25,7 @@ def make_json(ep):
     json_x = { 
             'embeds': [{
                 'title': title,
+                'footer':{'text':'HorribleSubs - 1080p'},
                 'description':'\n '+ep.link,
                 }]
             }
