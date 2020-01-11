@@ -1,0 +1,9 @@
+{
+    "webhook_url": "https://discordapp.com/api/webhooks/********",
+    "wanted": [
+        "Economics",
+        "Politics"
+    ],
+    "RSS_link": "http://www.awesomewebsite.info/rss.php",
+    "footer": "Posted using rss.py"
+}
